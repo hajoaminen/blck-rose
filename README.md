@@ -1,5 +1,9 @@
 # blck-rose
 
+* edit README.md to make changes to this file. add all relevant personal info, proof, links to social media, WaybackMachine links (save their FB pages with it), etc.
+
+---
+
 Ionut Sglimbea-Mircea
 
 facebook.com/meromish
