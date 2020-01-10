@@ -1,6 +1,6 @@
 # blck-rose
 
-* edit README.md to make changes to this file. add all relevant personal info, proof, links to social media, WaybackMachine links (save their FB pages with it), etc.
+* edit README.md to make changes to this file. add all relevant info, proof, links to social media, WaybackMachine links (save their FB pages with it), etc.
 
 ---
 
@@ -24,7 +24,7 @@ http://web.archive.org/web/20200108150157/http://web.archive.org/screenshot/http
 
 ---
 
-**Șerban Suru, BUC***
+**Șerban Suru, BUC**
 
 face book .com/serban.suru
 
@@ -56,8 +56,60 @@ https://web.archive.org/web/20200109115459/https://www.face book .com/jah.teiube
 
 ---
 
-**Dan Ciprian Grăjdeanu**
+**Dan Ciprian Grăjdeanu, PH**
 
 face book .com/danciprian.grajdeanu
 
 https://web.archive.org/web/20200109115157/https://www.face book .com/danciprian.grajdeanu
+
+---
+
+**Fandel Mihai, IS**
+
+face book .com/mihai.fandel
+
+minds .com/getodacian
+
+tecunosc .ro/Glasulinfo
+
+ro .pin terest .com/getodacian
+
+glasul .info
+
+face book .com/Glasul .info
+
+twi tter .com/Glasulinfo
+
+insta gram. com/glasul .info
+
+---
+
+**Călin George Mărincuș, CJ**
+
+face book. com/calin.marincus
+
+https://web.archive.org/web/20200110101809/https://www.face book .com/calin.marincus
+
+---
+
+**Mircea Petria, TL**
+
+face book .com/mircea.petria
+
+---
+
+**Ovidiu Machidon**
+
+face book .com/profile.php?id=100016308345982
+
+http://web.archive.org/screenshot/https://www.face book .com/permalink.php?story_fbid=541827036370903&id=100016308345982
+
+---
+
+**Valentin Chepeneag, GJ**
+
+liber tatea .ro/stiri/directorul-muzeului-constantin-brancuzi-ii-lauda-pe-zelea-codreanu-si-ion-antonescu-2747196
+
+https://web.archive.org/web/20200110104250/https://www.liber tatea .ro/stiri/directorul-muzeului-constantin-brancuzi-ii-lauda-pe-zelea-codreanu-si-ion-antonescu-2747196
+
+---
